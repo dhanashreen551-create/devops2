@@ -1,2 +1,11 @@
 hello user2
+<<<<<<< HEAD
+<<<<<<< HEAD
+modified file in main 
+ 
+=======
+modified file in first 
+>>>>>>> first
+=======
 modified file
+>>>>>>> second

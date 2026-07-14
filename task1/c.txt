@@ -1,2 +1,7 @@
 hello user3
+<<<<<<< HEAD
+modified file in first
+
+=======
 modified file
+>>>>>>> second
